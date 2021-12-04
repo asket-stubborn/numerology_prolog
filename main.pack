@@ -1,0 +1,11 @@
+﻿#include @"main.ph"
+
+% privately used packages
+#include @"pfc\com\comSupport\comSupport.ph"
+#include @"pfc\commandLineParser\commandLineParser.ph"
+#include @"pfc\console\console.ph"
+#include @"pfc\core.ph"
+#include @"pfc\list\list.ph"
+#include @"pfc\string\string.ph"
+% implementations
+#include @"main.pro"
